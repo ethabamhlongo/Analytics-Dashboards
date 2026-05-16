@@ -21,7 +21,7 @@ Microsoft Excel ,
 Data Modeling and
 Data Visualization
 
- #Retail Sales Dashboard
+ ###Retail Sales Dashboard
 Description
 
 A sales analytics dashboard designed to monitor retail business performance across different products, regions, and time periods.
