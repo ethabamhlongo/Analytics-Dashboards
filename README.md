@@ -10,49 +10,38 @@ Shopping Trends & Consumer Insights
 
 Each dashboard demonstrates skills in:
 
-Data cleaning and transformation
-Data visualization
-KPI tracking
-Trend analysis
-Business reporting
-Interactive dashboard design
+Data cleaning and transformation ,
+KPI tracking,
+Trend analysis,
+Business reporting ,
 Tools & Technologies
-Microsoft Power BI
-Google Data Studio
-Microsoft Excel
-Data Modeling
-DAX Calculations
+Microsoft Power BI ,
+Google Data Studio ,
+Microsoft Excel ,
+Data Modeling and
 Data Visualization
-Projects
 
 1. Retail Sales Dashboard
 Description
 
 A sales analytics dashboard designed to monitor retail business performance across different products, regions, and time periods.
 
-Key Insights
-Total sales performance
-Revenue trends over time
-Best-selling products
-Regional sales comparison
-Profit and loss analysis
-Customer purchasing behavior
-Features
-Interactive filters and slicers
-Monthly and yearly trend analysis
-KPI cards for quick insights
+Key Insights :
+Total sales performance ,
+Revenue trends over time ,
+Best-selling products,
+Regional sales comparison,
+Customer purchasing behavior,
+Monthly and yearly trend analysis ,
+KPI cards for quick insights and
 Category-wise sales breakdown
-Skills Applied
-Data cleaning
-Power BI visualizations
-Business performance reporting
 
 2. Bright Coffee Shop Dashboard
 Description
 
 A dashboard created to analyze the operations and sales performance of a coffee shop business.
 
-Key Insights
+Key Insights :
 Daily and monthly revenue
 Most popular menu items
 Peak customer hours
@@ -63,11 +52,6 @@ Dynamic charts and graphs
 Product performance tracking
 Revenue monitoring
 Time-based sales analysis
-Skills Applied
-Dashboard storytelling
-KPI development
-Data transformation
-Interactive reporting
 
 3. Shopping Trends Dashboard
 Description
@@ -90,7 +74,7 @@ Trend analysis
 Data visualization
 User behavior analysis
 Reporting automation
-Objectives
+
 
 The goal of these projects was to:
 
